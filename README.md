@@ -17,6 +17,10 @@ TimeUndo is an AI-powered daily scheduler that helps you plan your day efficient
 - Google Generative AI
 - Lucide Icons
 
+## Screenshot
+
+<img width="1920" height="1435" alt="SS" src="https://github.com/user-attachments/assets/b187fabc-496e-4ffe-9a73-bfb99862aa3e" />
+
 ## Getting Started
 
 Clone the repository:
