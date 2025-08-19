@@ -3,6 +3,69 @@ logs
 *.log
 npm-debug.log*
 yarn-debug.log*
+lerna-debug.log*
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directories
+coverage
+*.lcov
+.nyc_output
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm/yarn caches
+.npm
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+.yarn-integrity
+
+# Dotenv files
+.env
+.env.*
+!.env.example
+
+# Build output
+.next
+out
+dist
+.build
+.cache
+.parcel-cache
+.svelte-kit/
+.vitepress/dist
+.vitepress/cache
+.nuxt
+.serverless/
+.docusaurus
+
+# VSCode
+.vscode-test
+
+# System files
+.DS_Store
+Thumbs.db
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
